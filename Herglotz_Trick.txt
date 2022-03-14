@@ -1,2 +1,3 @@
-The Herglotz trick refers to an outstanding argument to proof a specially nice series expansion of the conatngent function that goes originally back to Euler.
+The Herglotz trick refers to an outstanding argument to proof a specially nice series expansion of the contangent function that originally goes back to Euler.
+Gustav Herglotz was a German Bohemian physicist.
 Refer for that also to M.Aigner's und G.M.Ziegler's "Book of Proofs".
